@@ -9,6 +9,7 @@
 |:---|
 |[2013/10/10(Thu) 02回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131010.md)|
 |[2013/10/17(Thu) 03回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131017.md)|
+|[2013/10/24(Thu) 04回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131024.md)|
 
 ******************************
 ### 教科書
