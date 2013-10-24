@@ -1,3 +1,5 @@
+## モデリングと設計(2013後期)
+
 ### シラバス & WebClass
  * [シラバス](http://ie.u-ryukyu.ac.jp/syllabus/2012/late/60153500.html)
 
@@ -11,7 +13,8 @@
  * 授業で作業をすすめるのではなくて、報告
 
 ******************************
-| 授業ログ |
+### 授業ログ
+||
 |:---|
 |[2013/10/10(Thu) 02回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131010.md)|
 |[2013/10/17(Thu) 03回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131017.md)|
