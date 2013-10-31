@@ -14,11 +14,11 @@
 以上
 
 1. [Tool] -> [Licens ...]
-2. 
+
 ![1つ目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/guide/astah/set_up/images/License01.png)
 
 2. [Set License Key]
-3. 
+
 ![2つ目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/guide/astah/set_up/images/License02.png)
 
 3. 〇〇_license.xmlを選択
