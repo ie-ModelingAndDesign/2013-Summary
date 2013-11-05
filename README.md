@@ -1,5 +1,9 @@
 ## モデリングと設計(2013後期)
 
+### 質問箱
+ * [Issues](https://github.com/ie-ModelingAndDesign/2013-Summary/issues)
+ * [質問方法](https://github.com/ie-ModelingAndDesign/2013-Summary/issues/4)
+
 ### シラバス & WebClass
  * [シラバス](http://ie.u-ryukyu.ac.jp/syllabus/2012/late/60153500.html)
 
