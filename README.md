@@ -1,8 +1,19 @@
 ## モデリングと設計(2013後期)
 
-### 質問箱
- * [Issues](https://github.com/ie-ModelingAndDesign/2013-Summary/issues)
+## 質問箱
+ * [質問箱へリンク](https://github.com/ie-ModelingAndDesign/2013-Summary/issues)
  * [質問方法](https://github.com/ie-ModelingAndDesign/2013-Summary/issues/4)
+
+******************************
+
+## 授業ログ
+|授業ログ|
+|:---|
+|[2013/10/10(Thu) 02回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131010.md)|
+|[2013/10/17(Thu) 03回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131017.md)|
+|[2013/10/24(Thu) 04回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131024.md)|
+|[2013/10/31(Thu) 05回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131031.md)|
+|[2013/11/07(Thu) 06回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131107.md)|
 
 ### シラバス & WebClass
  * [シラバス](http://ie.u-ryukyu.ac.jp/syllabus/2012/late/60153500.html)
@@ -15,16 +26,6 @@
  * UMLを用いて、モデル図を書いて開発をしてほしい
  * 各自教科書を読み進めてほしい
  * 授業で作業をすすめるのではなくて、報告
-
-******************************
-### 授業ログ
-||
-|:---|
-|[2013/10/10(Thu) 02回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131010.md)|
-|[2013/10/17(Thu) 03回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131017.md)|
-|[2013/10/24(Thu) 04回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131024.md)|
-|[2013/10/31(Thu) 05回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131031.md)|
-|[2013/11/07(Thu) 06回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131107.md)|
 
 ******************************
 ### 教科書
