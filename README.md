@@ -20,6 +20,7 @@
 |[2013/10/17(Thu) 03回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131017.md)|
 |[2013/10/24(Thu) 04回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131024.md)|
 |[2013/10/31(Thu) 05回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131031.md)|
+|[2013/11/07(Thu) 06回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131107.md)|
 
 ******************************
 ### 教科書
