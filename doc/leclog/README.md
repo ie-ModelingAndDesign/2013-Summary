@@ -10,3 +10,4 @@
  * [10回目 2013/12/05](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131205.md)
  * [11回目 2013/12/12](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131212.md)
  * [12回目 2013/12/19](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131219.md)
+ * [13回目 2014/01/09](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140109.md)
