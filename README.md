@@ -19,6 +19,8 @@
 |[2013/11/28(Thu) 09回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131128.md)|
 |[2013/12/05(Thu) 10回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131205.md)|
 |[2013/12/12(Thu) 11回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131212.md)|
+|[2013/12/19(Thu) 12回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131219.md)|
+|[2014/01/09(Thu) 13回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140109.md)|
 
 ### シラバス & WebClass
  * [シラバス](http://ie.u-ryukyu.ac.jp/syllabus/2012/late/60153500.html)
