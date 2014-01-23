@@ -16,6 +16,13 @@
 |[2013/11/07(Thu) 06回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131107.md)|[2014/01/09(Thu) 13回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140109.md)|
 |[2013/11/14(Thu) 07回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131114.md)||
 |[2013/11/21(Thu) 08回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131121.md)||
+|[2013/11/28(Thu) 09回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131128.md)||
+|[2013/12/05(Thu) 10回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131205.md)||
+|[2013/12/12(Thu) 11回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131212.md)||
+|[2013/12/19(Thu) 12回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131219.md)||
+|[2014/01/09(Thu) 13回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140109.md)||
+|[2014/01/16(Thu) 14回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140116.md)||
+|[2014/01/23(Thu) 15回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140123.md)||
 
 ### シラバス & WebClass
  * [シラバス](http://ie.u-ryukyu.ac.jp/syllabus/2012/late/60153500.html)
