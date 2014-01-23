@@ -14,15 +14,8 @@
 |[2013/10/24(Thu) 04回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131024.md)|[2013/12/12(Thu) 11回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131212.md)|
 |[2013/10/31(Thu) 05回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131031.md)|[2013/12/19(Thu) 12回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131219.md)|
 |[2013/11/07(Thu) 06回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131107.md)|[2014/01/09(Thu) 13回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140109.md)|
-|[2013/11/14(Thu) 07回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131114.md)||
-|[2013/11/21(Thu) 08回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131121.md)||
-|[2013/11/28(Thu) 09回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131128.md)||
-|[2013/12/05(Thu) 10回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131205.md)||
-|[2013/12/12(Thu) 11回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131212.md)||
-|[2013/12/19(Thu) 12回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131219.md)||
-|[2014/01/09(Thu) 13回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140109.md)||
-|[2014/01/16(Thu) 14回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140116.md)||
-|[2014/01/23(Thu) 15回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140123.md)||
+|[2013/11/14(Thu) 07回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131114.md)|[2014/01/16(Thu) 14回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140116.md)|
+|[2013/11/21(Thu) 08回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20131121.md)|[2014/01/23(Thu) 15回目](https://github.com/ie-ModelingAndDesign/2013-Summary/blob/master/doc/leclog/20140123.md)|
 
 ### シラバス & WebClass
  * [シラバス](http://ie.u-ryukyu.ac.jp/syllabus/2012/late/60153500.html)
@@ -45,15 +38,15 @@
 |     | チーム名 |アプリ名|
 |:---:|:---|:---|
 |A|[メカニカルフラワーズ](https://github.com/ie-ModelingAndDesign/2013-A)|SmartRSS|
-|B|[β](https://github.com/ie-ModelingAndDesign/2013-B)|未定|
+|B|[β](https://github.com/ie-ModelingAndDesign/2013-B)|Jet Busters|
 |C|[cat](https://github.com/ie-ModelingAndDesign/2013-C)|cat's eye|
 |D|[delltah](https://github.com/ie-ModelingAndDesign/2013-D)|ぬるぬるフリック|
 |E|[チームメテオ](https://github.com/ie-ModelingAndDesign/2013-E)|ザ・メテオ|
 |F|[KNU(仮)](https://github.com/ie-ModelingAndDesign/2013-F)|一言日記|
 |G|[DOG](https://github.com/ie-ModelingAndDesign/2013-G)|one-stroke\_sketch|
-|H|[なのです(仮)](https://github.com/ie-ModelingAndDesign/2013-H)|体重管理(WeightManager)|
+|H|[なのです(仮)](https://github.com/ie-ModelingAndDesign/2013-H)|体重管理|
 |I|[WallBreaker](https://github.com/ie-ModelingAndDesign/2013-I)|WallBreaker|
-|J|[なんJ](https://github.com/ie-ModelingAndDesign/2013-J)|未定|
+|J|[なんJ](https://github.com/ie-ModelingAndDesign/2013-J)|なんJくじ ver33.4|
 |K|[伊藤重工(株)](https://github.com/ie-ModelingAndDesign/2013-K)|カクテルシェイカー|
 |L|[ProjectL](https://github.com/ie-ModelingAndDesign/2013-L)|What's your name!|
 |M|[いっかくせんきん](https://github.com/ie-ModelingAndDesign/2013-M)|未定|
