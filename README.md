@@ -49,6 +49,5 @@
 |J|[なんJ](https://github.com/ie-ModelingAndDesign/2013-J)|なんJくじ ver33.4|
 |K|[伊藤重工(株)](https://github.com/ie-ModelingAndDesign/2013-K)|カクテルシェイカー|
 |L|[ProjectL](https://github.com/ie-ModelingAndDesign/2013-L)|What's your name!|
-|M|[いっかくせんきん](https://github.com/ie-ModelingAndDesign/2013-M)|剪刀石頭布
-|
+|M|[いっかくせんきん](https://github.com/ie-ModelingAndDesign/2013-M)|剪刀石頭布|
 |N|[I Mid SuperCarryTeemo!!!!](https://github.com/ie-ModelingAndDesign/2013-N)|森|
